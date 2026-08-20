@@ -1,3 +1,4 @@
+#Julia Zawadzka, Dominika Romanowska
 install.packages("openxlsx")
 install.packages("MASS")
 install.packages("coda")
