@@ -6,7 +6,7 @@ library(fable)
 library(fabletools)
 library(tseries)
 library(fBasics)
-library(feasts)  # Nadal potrzebny do modelu STL
+library(feasts)
 library(readr)
 library(tidyr)
 library(ggtime)
